@@ -1,4 +1,4 @@
-This project was done with colelagues during the Microsoft Hackathon :
+This project was done with my colleagues during the Microsoft Hackathon :
 
 Theme  - Containerizing Minecraft using "Docker and Kubernetes"
 
@@ -52,7 +52,7 @@ Adding config file for kubernetes:
 code ~/.kube/config
 ```
 
-Which version of kubectl you are using :
+To know the version of kubectl :
 
 ```
 kubectl version
